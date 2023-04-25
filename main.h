@@ -15,8 +15,8 @@
 #define F_SPACE 16
 
 /* SIZES */
-#define S_LONG 2
-#define S_SHORT 1
+#define LONG_SIZE 2
+#define SHORT_SIZE 1
 
 /**
  * struct fmt - Struct op
